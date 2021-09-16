@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    text-align: center;
+    background-color: #7ed6df;
+    padding: 15px 0;
+    border: 1px solid #000;
+    margin-bottom: 10px;
+}
+
+.info {
+    position: relative;
+    padding: 15px;
+}
+
+.info p{
+    width: 70%;
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+img.idol-img {
+    position: absolute;
+    top: 0;
+    right: 15px;
+    width: 30%;
+    border:1px solid #000;
+}
+
+.link {
+    text-decoration: none;
+
+}
